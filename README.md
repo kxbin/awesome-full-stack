@@ -36,7 +36,7 @@ pure 响应式css https://github.com/pure-css/pure
 
 dragula js拖拽库 https://github.com/bevacqua/dragula
 
-react-spring 就是弹簧动画库 https://github.com/pmndrs/react-spring
+react-spring js弹簧动画库 https://github.com/pmndrs/react-spring
 
 plyr html5播放器 https://github.com/sampotts/plyr
 
