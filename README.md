@@ -32,6 +32,15 @@ anime js动画引擎 https://github.com/juliangarnier/anime
 
 dayjs js日期工具 https://github.com/iamkun/dayjs
 
+pure 响应式css https://github.com/pure-css/pure
+
+dragula js拖拽库 https://github.com/bevacqua/dragula
+
+react-spring 就是弹簧动画库 https://github.com/pmndrs/react-spring
+
+plyr html5播放器 https://github.com/sampotts/plyr
+
+howler.js js音频库 https://howlerjs.com/
 
 二、后端
 
