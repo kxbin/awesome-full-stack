@@ -42,6 +42,8 @@ plyr html5播放器 https://github.com/sampotts/plyr
 
 howler.js js音频库 https://howlerjs.com/
 
+popper-core 弹出框自适应库 https://github.com/popperjs/popper-core
+
 二、后端
 
 
