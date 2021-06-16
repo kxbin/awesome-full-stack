@@ -2,53 +2,97 @@
 
 一、前端
 
-d3 动画图表  https://github.com/d3/d3
+d3
 
-axios http客户端 https://github.com/axios/axios
+动画图表  https://github.com/d3/d3
 
-three.js JavaScript 3D库 https://github.com/mrdoob/three.js
+axios
 
-animate.css 一个跨浏览器的 CSS 动画库 https://github.com/animate-css/animate.css
+http客户端 https://github.com/axios/axios
 
-webpack 前端打包器 https://github.com/webpack/webpack
+three.js
 
-json-server json服务器 https://github.com/typicode/json-server
+JavaScript 3D库 https://github.com/mrdoob/three.js
 
-hugo 静态站点生成器 https://github.com/gohugoio/hugo
+animate.css
 
-html5-boilerplate html模板 https://github.com/h5bp/html5-boilerplate
+一个跨浏览器的 CSS 动画库 https://github.com/animate-css/animate.css
 
-lodash js实用程序库 https://github.com/lodash/lodash
+webpack
 
-normalize.css 重置css保持风格统一 https://github.com/necolas/normalize.css
+前端打包器 https://github.com/webpack/webpack
 
-bulma 弹性css框架 https://github.com/jgthms/bulma
+json-server
 
-tailwindcss css框架 https://github.com/tailwindlabs/tailwindcss
+json服务器 https://github.com/typicode/json-server
 
-Meteor js全栈框架 https://github.com/meteor/meteor
+hugo
 
-anime js动画引擎 https://github.com/juliangarnier/anime
+静态站点生成器 https://github.com/gohugoio/hugo
 
-dayjs js日期工具 https://github.com/iamkun/dayjs
+html5-boilerplate
 
-pure 响应式css https://github.com/pure-css/pure
+html模板 https://github.com/h5bp/html5-boilerplate
 
-dragula js拖拽库 https://github.com/bevacqua/dragula
+lodash
 
-react-spring js弹簧动画库 https://github.com/pmndrs/react-spring
+js实用程序库 https://github.com/lodash/lodash
 
-plyr html5播放器 https://github.com/sampotts/plyr
+normalize.css
 
-howler.js js音频库 https://howlerjs.com/
+重置css保持风格统一 https://github.com/necolas/normalize.css
 
-popper-core 弹出框自适应库 https://github.com/popperjs/popper-core
+bulma
+
+弹性css框架 https://github.com/jgthms/bulma
+
+tailwindcss
+
+css框架 https://github.com/tailwindlabs/tailwindcss
+
+Meteor
+
+js全栈框架 https://github.com/meteor/meteor
+
+anime
+
+js动画引擎 https://github.com/juliangarnier/anime
+
+dayjs
+
+js日期工具 https://github.com/iamkun/dayjs
+
+pure
+
+响应式css https://github.com/pure-css/pure
+
+dragula
+
+js拖拽库 https://github.com/bevacqua/dragula
+
+react-spring
+
+js弹簧动画库 https://github.com/pmndrs/react-spring
+
+plyr
+
+html5播放器 https://github.com/sampotts/plyr
+
+howler.js
+
+js音频库 https://howlerjs.com/
+
+popper-core
+
+弹出框自适应库 https://github.com/popperjs/popper-core
 
 二、后端
 
-
+flask
 
 
 三、部署
 
-ansible 自动化部署 https://github.com/ansible/ansible
+ansible
+
+自动化部署 https://github.com/ansible/ansible
